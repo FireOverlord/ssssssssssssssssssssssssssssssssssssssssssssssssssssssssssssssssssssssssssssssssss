@@ -1,0 +1,26 @@
+H1 {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+H2 {
+    text-align: left;
+    background-color: aquamarine;
+    margin-right: 1000px;
+}
+
+p {
+    text-align: right;
+    background-color: cadetblue;
+    font-size: 25;
+    margin-left: 1000px;
+    color: aliceblue;
+}
+
+Body {
+    font-family: cursive;
+    background-color:dimgrey;
+}
+img {
+    height: 500px;
+}
